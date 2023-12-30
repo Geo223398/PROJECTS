@@ -1,8 +1,13 @@
 
-# Fish Weight Prediction
+# Bank Customer Churn Prediction
 ### Data Type: multivariate
 
 ### Context
-### Problem Statement
+We aim to accomplist the following for this study:
 
-The dataset is a record of 7 common different fish species in fish market sales. The main objective is to estimate fish weight on the basis of some measurement of fish body structure.
+Identify and visualize which factors contribute to customer churn:
+
+1. Build a prediction model that will perform the following:
+
+2. Classify if a customer is going to churn or not
+Preferably and based on model performance, choose a model that will attach a probability to the churn to make it easier for customer service to target low hanging fruits in their efforts to prevent churn
